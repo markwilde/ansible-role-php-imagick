@@ -1,0 +1,3 @@
+---
+php_imagick_extension: "imagick.so"
+php_imagick_extension_priority: "20"
